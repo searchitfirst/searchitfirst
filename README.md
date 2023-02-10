@@ -1,7 +1,12 @@
 # Search It First
 
-Hello!
+Hello! 
 
+https://searchitfirst.fyi
+
+This project is based on https://nohello.net
+
+Welcome to add more translations to support it!
 
 ## Translators
 
