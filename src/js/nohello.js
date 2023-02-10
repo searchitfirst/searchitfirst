@@ -6,7 +6,7 @@ const typed2 = new Typed('#strike', {
     'search',
     'recherche',
     'procurar',
-    "検索",
+    '検索',
     'поиск',
     'खोज',
     'ricerca',
