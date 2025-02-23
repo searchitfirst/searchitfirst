@@ -1,6 +1,6 @@
-# Search It First
+# Search/AI It First
 
-Hello! 
+Hello there! 
 
 https://searchitfirst.fyi
 
